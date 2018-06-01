@@ -1,0 +1,1 @@
+python pointer-generator/run_summarization.py --mode=train --data_path=/root/data/finished_files/chunked/train_* --vocab_path=/root/data/finished_files/vocab --log_root=log --exp_name=myexperiment
